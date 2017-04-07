@@ -29,7 +29,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Busybox \
     ThemeInterfacer \
-    OmniStyle
+    OmniStyle \
+    SnapdragonGallery \
+    SnapdragonMusic
 
 # Custom off-mode charger
 ifneq ($(WITH_CM_CHARGER),false)
